@@ -17,9 +17,6 @@ Discovery Environment Applications
 
 ..
     Summary
-----
-
-
 
 ----
 
