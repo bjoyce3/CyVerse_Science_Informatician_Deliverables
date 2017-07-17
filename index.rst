@@ -15,21 +15,30 @@ Goal
 
 ..
     #### Comment: Avoid covering upstream and downstream steps that are not explicitly and
-    necessarily part of the tutorial - write or link to separate quick
-    starts/tutorials for those parts ####
+    necessarily part of the Science Team Deliverables Index ####
 
 ----
 
 .. toctree::
-	:maxdepth: 2
+	:maxdepth: 1
 
-	Tutorial home <self>
-	Step One <step1.rst>
-
+	Deliverables Overview <self>
+	DE Applications <deapps.rst>
+	Agave Applications <agaveapps.rst>
+	Scientific Workflows <workflows.rst>	
+	Atmosphere Images <atmoimages.rst>
+	BisQue Modules <bisquemodules.rst>
+	Public Datasets <datasets.rst>
+	Science/Technology Documentation Tutorials <tutorials.rst>
+	Product Champion <productchampion.rst>
+	Peer-reviewed Publications <publications.rst>
+	Proposals for Funding <proposalsfunding.rst>
+	Professional Development <professionaldevelopment.rst>
+	Other <finalpage.rst>
+	
+		
 ..
-	#### Comment:This tutorial can have multiple pages. The table of contents assumes
-	you have an additional page called 'Step Owo' with content located in 'step1.rst'
-	Edit these titles and filenames as needed ####
+	#### Comment:This Science Team Deliverables Index can have multiple pages.  Edit these titles and filenames as needed ####
 
 
 Prerequisites
@@ -38,7 +47,7 @@ Prerequisites
 Downloads, access, and services
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*In order to complete this tutorial you will need access to the following services/software*
+*In order to complete this Science Team Deliverables Index you will need access to the following services/software*
 
 ..
 	#### comment: delete any row not needed in this table ####
@@ -149,7 +158,7 @@ Application(s) used
 Input and example data
 ~~~~~~~~~~~~~~~~~~~~~~
 
-*In order to complete this tutorial you will need to have the following inputs prepared*
+*In order to complete this Science Team Deliverables Index you will need to have the following inputs prepared*
 
 ..
 	#### comment: delete any row not needed in this table ####
@@ -165,13 +174,6 @@ Input and example data
       -
       -
       -
-
-----
-
-**Fix or improve this documentation**
-
-- On Github: `Repo link <FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_FIX_>`_
-- Send feedback: `Tutorials@CyVerse.org <Tutorials@CyVerse.org>`_
 
 ----
 
